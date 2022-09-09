@@ -1,0 +1,15 @@
+#container {
+    font-size: 4em;
+}
+
+#lives {
+    color: red;
+}
+
+#incorrect-letters {
+    letter-spacing: 0.2em;
+}
+
+#secret-word span {
+    padding: 4px;
+}
